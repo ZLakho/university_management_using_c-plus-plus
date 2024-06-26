@@ -8,11 +8,8 @@
 //#include<graphics.h>
 using namespace std;
 
-
 int n;
 int main();
-
-
 
 class Student{
 	string name,father_name,dept,course,address,dob,domicile;
